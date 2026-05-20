@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vincent!</h1>
 
 <p align="center">
-  A passionate Full Stack Web Developer focused on building practical web applications with Laravel
+  A passionate Full Stack Web Developer focused on building efficient web applications with Laravel
 </p>
 
 <p align="center">
