@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://builtbyvincent.netlify.app/">
+  <a href="https://www.franzvincent.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/franz-vincent-cantillano/">
@@ -85,6 +85,6 @@
 
 ## 🔗 Connect
 
-- Portfolio: [builtbyvincent.netlify.app](https://builtbyvincent.netlify.app/)
+- Portfolio: [www.franzvincent.com](https://www.franzvincent.com/)
 - LinkedIn: [linkedin.com/in/franz-vincent-cantillano](https://www.linkedin.com/in/franz-vincent-cantillano/)
 - Email: [franzvincentcantillano@gmail.com](mailto:franzvincentcantillano@gmail.com)
